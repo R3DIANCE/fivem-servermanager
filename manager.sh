@@ -206,9 +206,9 @@ fi
 
 
 if [[ $updatemanager == "true" ]]; then
-
-managerurl="https://raw.githubusercontent.com/Slluxx/fivem-servermanager/master/manager.sh"
-configurl="https://raw.githubusercontent.com/Slluxx/fivem-servermanager/master/managerfiles/default-config.cfg"
+/master/init.sh
+managerurl="https://raw.githubusercontent.com/R3DIANCE/fivem-servermanager/master/manager.sh"
+configurl="https://raw.githubusercontent.com/R3DIANCE/fivem-servermanager/master/managerfiles/default-config.cfg"
 
 rm ./manager.sh
 wget $managerurl
