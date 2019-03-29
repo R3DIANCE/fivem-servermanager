@@ -20,7 +20,7 @@ Copy and paste this code to start the installation.
 You can choose an installationpath then.
 
 ```shell
-wget https://raw.githubusercontent.com/Slluxx/fivem-servermanager/master/init.sh && chmod +x ./init.sh && sudo ./init.sh
+wget https://raw.githubusercontent.com/R3DIANCE/fivem-servermanager/master/init.sh && chmod +x ./init.sh && sudo ./init.sh
 ```
 
 You will be forced to do an update & upgrade. If you want to skip that, because you are an expert and you know what you are doing, pass `--no-update` behind it.
