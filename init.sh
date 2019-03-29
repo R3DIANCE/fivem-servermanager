@@ -45,7 +45,7 @@ fi
 	cd ..
 	mkdir servers
 	mkdir managerfiles
-	wget https://raw.githubusercontent.com/Slluxx/fivem-servermanager/master/manager.sh
+	wget https://raw.githubusercontent.com/R3DIANCE/fivem-servermanager/master/manager.sh
 	cd ./managerfiles
 	wget https://raw.githubusercontent.com/R3DIANCE/fivem-servermanager/master/managerfiles/default-config.cfg
 	wget https://raw.githubusercontent.com/R3DIANCE/fivem-servermanager/master/managerfiles/used-ports.txt
